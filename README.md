@@ -1,3 +1,3 @@
 # Voting
 
-Polling station description
+Polling station description.
